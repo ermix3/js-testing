@@ -1,0 +1,19 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "keywords": [
+    "test",
+    "js"
+  ],
+  "author": "ER-Reda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
